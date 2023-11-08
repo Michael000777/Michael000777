@@ -2,7 +2,7 @@
 https://static.wixstatic.com/media/3eee0b_cc71f7fc3ba144479ca73110b0989f95~mv2.gif
 <h1 align="center">Hi 👋, I'm Michael Akpabey</h1>
 <h3 align="center">I am passionate about the fields of Toxicology and Bioinformatics</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:400/1*FRwfSBY3E7NeSz3Bn4eMpA.gif”>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michael000777&label=Profile%20views&color=0e75b6&style=flat" alt="michael000777" /> </p>
 
