@@ -1,7 +1,7 @@
 [![MasterHead](https://static.wixstatic.com/media/3eee0b_cc71f7fc3ba144479ca73110b0989f95~mv2.gif)](https://www.linkedin.com/in/michael-akpabey-3a4727134/)
 https://static.wixstatic.com/media/3eee0b_cc71f7fc3ba144479ca73110b0989f95~mv2.gif
 <h1 align="center">Hi 👋, I'm Michael Akpabey</h1>
-<h3 align="center">I am passionate about the fields of Toxicology and Bioinformatics</h3>
+<h3 align="center">I am passionate about using computational tools for uncovering biological insights</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michael000777&label=Profile%20views&color=0e75b6&style=flat" alt="michael000777" /> </p>
